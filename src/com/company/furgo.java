@@ -4,7 +4,7 @@ package com.company;
  * Created by e-imb on 23/05/2017.
  */
 public class furgo extends carga {
-
+//kek
     boolean isotermica;
 
     public furgo(String matricula, double PMA, boolean isotermica) {
